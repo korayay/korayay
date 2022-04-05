@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/coreiimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coreiimo" height="30" width="40" /></a>
 <a href="https://instagram.com/kryayy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kryayy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/korayay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="korayay" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
