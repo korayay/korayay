@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koray</h1>
 <h3 align="center">A Developer tends to keep things simple.</h3>
 
-- 🌱 I’m currently learning **Mobile App Development, Artificial Intelligence and Game Development**
+- 🌱 I’m currently learning **Mobile App Development and Web Development**
 
 - 📫 How to reach me **korayay00@gmail.com**
 
